@@ -8,7 +8,7 @@ int main()
         cout<<"1"<<endl;
     else
     {
-        int cnt;
+        int cnt=0;
         while(m<=n)
         {
             cnt++;
